@@ -2,8 +2,6 @@
 
 ## 📌 Descrição
 
-## 📌 Descrição
-
 O Sistema Alunos é uma API REST simples desenvolvida com Spring Boot para gerenciamento de cursos, estudantes e professores.
 
 A aplicação implementa operações básicas de CRUD (Create, Read, Update e Delete) para cada entidade do sistema, permitindo o gerenciamento completo dos dados.
